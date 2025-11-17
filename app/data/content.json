@@ -1,0 +1,265 @@
+{
+  "personal": {
+    "name": "Zakaria Bounou",
+    "title": "Full-Stack Software Engineer",
+    "tagline": "Ingénieur en Études & Développement SI",
+    "bio": "I'm passionate about solving complex problems with analytical thinking and result-oriented development. I specialize in building scalable web applications across the full stack, from backend systems to modern frontends, with a focus on delivering high-performance solutions under tight deadlines.",
+    "location": "Casablanca, Morocco",
+    "email": "bounouzakaria@outlook.com",
+    "phone": "+212 777 514777",
+    "github": "https://github.com/zakariab0",
+    "linkedin": "https://linkedin.com/in/zakariabounou",
+    "resume": "/CV_2025-11-09_ZAKARIA_BOUNOU.pdf",
+    "image": "/zakaria-bounou.jpg"
+  },
+  "about": {
+    "summary": "I build enterprise-grade applications with expertise across Java, PHP, Python, and modern JavaScript frameworks. My engineering approach combines robust backend architecture with intuitive frontend experiences, always optimizing for performance and maintainability.",
+    "highlights": [
+      "Full-stack development with Spring Boot, Laravel, and React ecosystems",
+      "API design and integration (REST, SOAP, JWT authentication)",
+      "CI/CD implementation with Docker, Jenkins, and Git workflows",
+      "Database design and optimization (SQL Server, PostgreSQL, MySQL, NoSQL)",
+      "Agile methodologies (Scrum, Kanban, Scrumban)"
+    ]
+  },
+  "experience": [
+    {
+      "id": "lve",
+      "company": "La Voie Express",
+      "position": "Ingénieur Full-Stack",
+      "location": "Casablanca, Morocco",
+      "startDate": "2025-07",
+      "endDate": null,
+      "current": true,
+      "description": "Leading project management initiatives covering diverse operational aspects of the company's systems.",
+      "responsibilities": [
+        "Design and develop enterprise applications using Laravel and SQL Server",
+        "Maintain legacy PowerBuilder systems while modernizing architecture",
+        "Build REST APIs and integrate third-party services",
+        "Optimize existing systems for performance and scalability",
+        "Develop mobile applications with React Native",
+        "Implement automation scripts using Python, Bash, and Batch"
+      ],
+      "technologies": ["Laravel", "SQL Server", "PowerBuilder", "Python", "React Native", "Bootstrap", "Bash", "Git"]
+    },
+    {
+      "id": "sorec",
+      "company": "Société Royale d'Encouragement du Cheval (SOREC)",
+      "position": "Développeur Spring Boot – Stage Fin d'Études",
+      "location": "Rabat, Morocco",
+      "startDate": "2024-02",
+      "endDate": "2024-07",
+      "current": false,
+      "description": "Developed a comprehensive fleet management application covering the entire project lifecycle from requirements to deployment.",
+      "responsibilities": [
+        "Architected and implemented RESTful APIs with Spring Boot",
+        "Designed relational database schemas with PostgreSQL",
+        "Built secure authentication system with JWT tokens",
+        "Developed responsive frontend interfaces using Angular and Thymeleaf",
+        "Set up CI/CD pipelines with Docker and Jenkins",
+        "Applied Spring Data JPA for efficient data persistence"
+      ],
+      "technologies": ["Java", "Spring Boot", "Spring Data JPA", "JWT", "PostgreSQL", "Angular", "Thymeleaf", "Docker", "Jenkins"]
+    },
+    {
+      "id": "chp",
+      "company": "Centre Hospitalier Provincial - Hassani",
+      "position": "Développeur PHP – Stage",
+      "location": "Al Nador, Morocco",
+      "startDate": "2022-06",
+      "endDate": "2022-08",
+      "current": false,
+      "description": "Developed a patient records management system using Symfony framework.",
+      "responsibilities": [
+        "Built MVC architecture with Symfony components",
+        "Designed MySQL database for patient data management",
+        "Implemented CRUD operations with Doctrine ORM",
+        "Created responsive UI with Bootstrap framework",
+        "Managed dependencies with Composer"
+      ],
+      "technologies": ["PHP", "Symfony", "Composer", "MySQL", "HTML5", "Bootstrap"]
+    },
+    {
+      "id": "mm",
+      "company": "MARSA MAROC",
+      "position": "Développeur Java Junior – Stage",
+      "location": "Al Nador, Morocco",
+      "startDate": "2021-02",
+      "endDate": "2021-04",
+      "current": false,
+      "description": "Enhanced internal management system by refactoring existing modules and automating recurring tasks.",
+      "responsibilities": [
+        "Refactored legacy modules using Spring Framework",
+        "Automated repetitive workflows to improve efficiency",
+        "Wrote unit tests with JUnit for code reliability",
+        "Managed project dependencies with Maven"
+      ],
+      "technologies": ["Java", "Spring Framework", "Maven", "JUnit"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ingénieur d'État en Informatique",
+      "institution": "Université Privée de Fès",
+      "location": "Fès, Morocco",
+      "startDate": "2021-09",
+      "endDate": "2024-06",
+      "graduated": true
+    },
+    {
+      "degree": "Technicien Supérieur - Génie Logiciel",
+      "institution": "École Supérieure en Technologie",
+      "location": "Meknès, Morocco",
+      "startDate": "2019-09",
+      "endDate": "2021-06",
+      "graduated": true
+    },
+    {
+      "degree": "Baccalauréat Sciences Mathématiques B",
+      "institution": "Lycée Elkhattabi",
+      "location": "Al Nador, Morocco",
+      "startDate": "2018",
+      "endDate": "2019",
+      "graduated": true
+    }
+  ],
+  "skills": {
+    "backend": [
+      {
+        "name": "PHP",
+        "frameworks": ["Laravel", "Symfony"],
+        "proficiency": "advanced"
+      },
+      {
+        "name": "Java",
+        "frameworks": ["Spring Boot", "Spring Framework", "JEE"],
+        "proficiency": "advanced"
+      },
+      {
+        "name": "Python",
+        "frameworks": [],
+        "proficiency": "intermediate"
+      },
+      {
+        "name": "SQL",
+        "frameworks": ["MySQL", "SQL Server", "PostgreSQL", "Oracle"],
+        "proficiency": "advanced"
+      },
+      {
+        "name": "NoSQL",
+        "frameworks": [],
+        "proficiency": "intermediate"
+      }
+    ],
+    "frontend": [
+      {
+        "name": "Angular",
+        "proficiency": "intermediate"
+      },
+      {
+        "name": "React Native",
+        "proficiency": "intermediate"
+      },
+      {
+        "name": "Bootstrap",
+        "proficiency": "advanced"
+      },
+      {
+        "name": "Thymeleaf",
+        "proficiency": "intermediate"
+      },
+      {
+        "name": "HTML5/CSS3",
+        "proficiency": "advanced"
+      }
+    ],
+    "devops": [
+      {
+        "name": "Docker",
+        "proficiency": "intermediate"
+      },
+      {
+        "name": "Jenkins",
+        "proficiency": "intermediate"
+      },
+      {
+        "name": "Git",
+        "tools": ["GitHub", "GitLab"],
+        "proficiency": "advanced"
+      },
+      {
+        "name": "Bash/Batch",
+        "proficiency": "intermediate"
+      }
+    ],
+    "testing": [
+      {
+        "name": "JUnit",
+        "proficiency": "intermediate"
+      },
+      {
+        "name": "Mockito",
+        "proficiency": "intermediate"
+      }
+    ],
+    "methodologies": [
+      "Scrum",
+      "Kanban",
+      "Scrumban",
+      "Agile Development"
+    ],
+    "apis": [
+      "RESTful APIs",
+      "SOAP APIs",
+      "JWT Authentication"
+    ]
+  },
+  "achievements": [
+    {
+      "id": "cop28",
+      "title": "Trophée d'Excellence - COP28 Dubai",
+      "description": "Excellence award for incubated project at COP28 international climate conference in Dubai",
+      "date": "2023",
+      "category": "Innovation",
+      "featured": true
+    },
+    {
+      "id": "green-startup",
+      "title": "2ème Prix - Bootcamp des Start-ups Vertes",
+      "description": "Second place winner in Green Startups Bootcamp competition",
+      "date": "2023",
+      "category": "Entrepreneurship",
+      "featured": true
+    },
+    {
+      "id": "robotics",
+      "title": "3ème Prix - UPF National Robotics Competition",
+      "description": "Third place in national robotics competition at Université Privée de Fès",
+      "date": "2023",
+      "category": "Technical Competition",
+      "featured": false
+    }
+  ],
+  "languages": [
+    {
+      "name": "Arabic",
+      "level": "Native"
+    },
+    {
+      "name": "French",
+      "level": "Fluent"
+    },
+    {
+      "name": "English",
+      "level": "Fluent"
+    },
+    {
+      "name": "Spanish",
+      "level": "Intermediate"
+    },
+    {
+      "name": "German",
+      "level": "Basic"
+    }
+  ]
+}
