@@ -2,7 +2,7 @@
   "personal": {
     "name": "Zakaria Bounou",
     "title": "Full-Stack Software Engineer",
-    "tagline": "Ingénieur en Études & Développement SI",
+    "tagline": "Information Systems Engineer & Developer",
     "bio": "I'm passionate about solving complex problems with analytical thinking and result-oriented development. I specialize in building scalable web applications across the full stack, from backend systems to modern frontends, with a focus on delivering high-performance solutions under tight deadlines.",
     "location": "Casablanca, Morocco",
     "email": "bounouzakaria@outlook.com",
@@ -26,7 +26,7 @@
     {
       "id": "lve",
       "company": "La Voie Express",
-      "position": "Ingénieur Full-Stack",
+      "position": "Full-Stack Engineer",
       "location": "Casablanca, Morocco",
       "startDate": "2025-07",
       "endDate": null,
@@ -45,7 +45,7 @@
     {
       "id": "sorec",
       "company": "Société Royale d'Encouragement du Cheval (SOREC)",
-      "position": "Développeur Spring Boot – Stage Fin d'Études",
+      "position": "Spring Boot Developer – Final Internship",
       "location": "Rabat, Morocco",
       "startDate": "2024-02",
       "endDate": "2024-07",
@@ -64,7 +64,7 @@
     {
       "id": "chp",
       "company": "Centre Hospitalier Provincial - Hassani",
-      "position": "Développeur PHP – Stage",
+      "position": "PHP Developer – Internship",
       "location": "Al Nador, Morocco",
       "startDate": "2022-06",
       "endDate": "2022-08",
@@ -82,7 +82,7 @@
     {
       "id": "mm",
       "company": "MARSA MAROC",
-      "position": "Développeur Java Junior – Stage",
+      "position": "Junior Java Developer – Internship",
       "location": "Al Nador, Morocco",
       "startDate": "2021-02",
       "endDate": "2021-04",
@@ -99,23 +99,23 @@
   ],
   "education": [
     {
-      "degree": "Ingénieur d'État en Informatique",
-      "institution": "Université Privée de Fès",
+      "degree": "State Engineer in Computer Science",
+      "institution": "Private University of Fez",
       "location": "Fès, Morocco",
       "startDate": "2021-09",
       "endDate": "2024-06",
       "graduated": true
     },
     {
-      "degree": "Technicien Supérieur - Génie Logiciel",
-      "institution": "École Supérieure en Technologie",
+      "degree": "Higher Technician - Software Engineering",
+      "institution": "Higher School of Technology",
       "location": "Meknès, Morocco",
       "startDate": "2019-09",
       "endDate": "2021-06",
       "graduated": true
     },
     {
-      "degree": "Baccalauréat Sciences Mathématiques B",
+      "degree": "High School Diploma - Mathematical Sciences B",
       "institution": "Lycée Elkhattabi",
       "location": "Al Nador, Morocco",
       "startDate": "2018",
@@ -217,7 +217,7 @@
   "achievements": [
     {
       "id": "cop28",
-      "title": "Trophée d'Excellence - COP28 Dubai",
+      "title": "Excellence Trophy - COP28 Dubai",
       "description": "Excellence award for incubated project at COP28 international climate conference in Dubai",
       "date": "2023",
       "category": "Innovation",
@@ -225,7 +225,7 @@
     },
     {
       "id": "green-startup",
-      "title": "2ème Prix - Bootcamp des Start-ups Vertes",
+      "title": "2nd Prize - Green Startups Bootcamp",
       "description": "Second place winner in Green Startups Bootcamp competition",
       "date": "2023",
       "category": "Entrepreneurship",
@@ -233,7 +233,7 @@
     },
     {
       "id": "robotics",
-      "title": "3ème Prix - UPF National Robotics Competition",
+      "title": "3rd Prize - UPF National Robotics Competition",
       "description": "Third place in national robotics competition at Université Privée de Fès",
       "date": "2023",
       "category": "Technical Competition",
