@@ -48,7 +48,7 @@ export default function Footer() {
       </ul>
 
       <p className="mt-8 cursor-default text-left text-neutral-600 dark:text-neutral-300">
-        © {year} Zakaria Bounou. Built with Next.js & Tailwind CSS.
+        © {year} Zakaria Bounou.
       </p>
     </footer>
   );

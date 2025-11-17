@@ -1,4 +1,4 @@
-import { FaEnvelope, FaGithub, FaLinkedin } from "react-icons/fa6";
+import { FaEnvelope, FaGithub, FaLinkedin, FaFileDownload } from "react-icons/fa6";
 import ExperienceTimeline from "./components/sections/experience-timeline";
 import SkillsGrid from "./components/sections/skills-grid";
 import ProjectsShowcase from "./components/sections/projects-showcase";
@@ -81,6 +81,24 @@ export default function Page() {
           >
             <FaLinkedin className="text-base" />
             LinkedIn
+          </a>
+
+          <a
+            href="/en.pdf"
+            download="Zakaria_Bounou_Resume_EN.pdf"
+            className="inline-flex items-center gap-2 rounded-xl border border-neutral-300 dark:border-neutral-700 px-4 py-2.5 text-sm font-medium text-neutral-800 dark:text-neutral-200 hover:bg-neutral-50 dark:hover:bg-neutral-800 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-400"
+          >
+            <FaFileDownload className="text-base" />
+            Resume (EN)
+          </a>
+
+          <a
+            href="/fr.pdf"
+            download="Zakaria_Bounou_CV_FR.pdf"
+            className="inline-flex items-center gap-2 rounded-xl border border-neutral-300 dark:border-neutral-700 px-4 py-2.5 text-sm font-medium text-neutral-800 dark:text-neutral-200 hover:bg-neutral-50 dark:hover:bg-neutral-800 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-400"
+          >
+            <FaFileDownload className="text-base" />
+            CV (FR)
           </a>
         </div>
 
