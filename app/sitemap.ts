@@ -1,6 +1,7 @@
 import { getBlogPosts } from "app/blog/utils";
 
-export const baseUrl = "https://zakariabounou.vercel.app";
+export const baseUrl = "https://zakariab0.github.io";
+export const dynamic = 'force-static';
 
 export default async function sitemap() {
   let blogs = getBlogPosts().map((post) => ({
