@@ -4,12 +4,12 @@
     "title": "Full-Stack Software Engineer",
     "tagline": "Information Systems Engineer & Developer",
     "bio": "I'm passionate about solving complex problems with analytical thinking and result-oriented development. I specialize in building scalable web applications across the full stack, from backend systems to modern frontends, with a focus on delivering high-performance solutions under tight deadlines.",
-    "location": "Casablanca, Morocco",
+    "location": "France",
     "email": "bounouzakaria@outlook.com",
-    "phone": "+212 777 514777",
+    "phone": "+33 743 969824",
     "github": "https://github.com/zakariab0",
     "linkedin": "https://linkedin.com/in/zakariabounou",
-    "resume": "/CV_2025-11-09_ZAKARIA_BOUNOU.pdf",
+    "resume": "/en.pdf",
     "image": "/zakaria-bounou.jpg"
   },
   "about": {
@@ -24,13 +24,31 @@
   },
   "experience": [
     {
+      "id": "creadoc",
+      "company": "Creadoc for School",
+      "position": "Software Engineer",
+      "location": "France",
+      "startDate": "2026-09",
+      "endDate": null,
+      "current": true,
+      "description": "Full-stack development of web applications for the education sector, serving schools and their teams.",
+      "responsibilities": [
+        "Design and develop full-stack web applications for the education sector",
+        "Build and integrate REST APIs and business modules",
+        "Connect the platform's services to its data environments",
+        "Focus on code quality, reliability and maintainability",
+        "Apply review practices and continuous improvement to the existing codebase"
+      ],
+      "technologies": []
+    },
+    {
       "id": "lve",
       "company": "La Voie Express",
       "position": "Full-Stack Engineer",
       "location": "Casablanca, Morocco",
       "startDate": "2025-07",
-      "endDate": null,
-      "current": true,
+      "endDate": "2026-08",
+      "current": false,
       "description": "Leading project management initiatives covering diverse operational aspects of the company's systems.",
       "responsibilities": [
         "Design and develop enterprise applications using Laravel and SQL Server",
@@ -40,7 +58,16 @@
         "Develop mobile applications with React Native",
         "Implement automation scripts using Python, Bash, and Batch"
       ],
-      "technologies": ["Laravel", "SQL Server", "PowerBuilder", "Python", "React Native", "Bootstrap", "Bash", "Git"]
+      "technologies": [
+        "Laravel",
+        "SQL Server",
+        "PowerBuilder",
+        "Python",
+        "React Native",
+        "Bootstrap",
+        "Bash",
+        "Git"
+      ]
     },
     {
       "id": "sorec",
@@ -59,7 +86,17 @@
         "Set up CI/CD pipelines with Docker and Jenkins",
         "Applied Spring Data JPA for efficient data persistence"
       ],
-      "technologies": ["Java", "Spring Boot", "Spring Data JPA", "JWT", "PostgreSQL", "Angular", "Thymeleaf", "Docker", "Jenkins"]
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "Spring Data JPA",
+        "JWT",
+        "PostgreSQL",
+        "Angular",
+        "Thymeleaf",
+        "Docker",
+        "Jenkins"
+      ]
     },
     {
       "id": "chp",
@@ -77,7 +114,14 @@
         "Created responsive UI with Bootstrap framework",
         "Managed dependencies with Composer"
       ],
-      "technologies": ["PHP", "Symfony", "Composer", "MySQL", "HTML5", "Bootstrap"]
+      "technologies": [
+        "PHP",
+        "Symfony",
+        "Composer",
+        "MySQL",
+        "HTML5",
+        "Bootstrap"
+      ]
     },
     {
       "id": "mm",
@@ -94,10 +138,23 @@
         "Wrote unit tests with JUnit for code reliability",
         "Managed project dependencies with Maven"
       ],
-      "technologies": ["Java", "Spring Framework", "Maven", "JUnit"]
+      "technologies": [
+        "Java",
+        "Spring Framework",
+        "Maven",
+        "JUnit"
+      ]
     }
   ],
   "education": [
+    {
+      "degree": "Master's Degree in Full-stack Development",
+      "institution": "University of Corsica",
+      "location": "France",
+      "startDate": "2026-09",
+      "endDate": null,
+      "graduated": false
+    },
     {
       "degree": "State Engineer in Computer Science",
       "institution": "Private University of Fez",
@@ -127,12 +184,19 @@
     "backend": [
       {
         "name": "PHP",
-        "frameworks": ["Laravel", "Symfony"],
+        "frameworks": [
+          "Laravel",
+          "Symfony"
+        ],
         "proficiency": "advanced"
       },
       {
         "name": "Java",
-        "frameworks": ["Spring Boot", "Spring Framework", "JEE"],
+        "frameworks": [
+          "Spring Boot",
+          "Spring Framework",
+          "JEE"
+        ],
         "proficiency": "advanced"
       },
       {
@@ -142,7 +206,12 @@
       },
       {
         "name": "SQL",
-        "frameworks": ["MySQL", "SQL Server", "PostgreSQL", "Oracle"],
+        "frameworks": [
+          "MySQL",
+          "SQL Server",
+          "PostgreSQL",
+          "Oracle"
+        ],
         "proficiency": "advanced"
       },
       {
@@ -184,7 +253,10 @@
       },
       {
         "name": "Git",
-        "tools": ["GitHub", "GitLab"],
+        "tools": [
+          "GitHub",
+          "GitLab"
+        ],
         "proficiency": "advanced"
       },
       {
