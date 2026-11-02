@@ -1,8 +1,8 @@
 {
   "personal": {
     "name": "Zakaria Bounou",
-    "title": "Full-Stack Software Engineer",
-    "tagline": "Information Systems Engineer & Developer",
+    "title": "Full-Stack & Mobile Software Engineer",
+    "tagline": "Web, Mobile & AI — from spec to the App Store",
     "bio": "I'm passionate about solving complex problems with analytical thinking and result-oriented development. I specialize in building scalable web applications across the full stack, from backend systems to modern frontends, with a focus on delivering high-performance solutions under tight deadlines.",
     "location": "France",
     "email": "bounouzakaria@outlook.com",
@@ -13,16 +13,43 @@
     "image": "/zakaria-bounou.jpg"
   },
   "about": {
-    "summary": "I build enterprise-grade applications with expertise across Java, PHP, Python, and modern JavaScript frameworks. My engineering approach combines robust backend architecture with intuitive frontend experiences, always optimizing for performance and maintainability.",
+    "summary": "I build and ship real products across the full stack — enterprise web apps (Laravel, Spring Boot, Angular), native and cross-platform mobile apps (SwiftUI, React Native / Expo), and the AI and automation that make them useful. I take things from spec all the way to the App Store, with a focus on performance, clean architecture and maintainability.",
     "highlights": [
-      "Full-stack development with Spring Boot, Laravel, and React ecosystems",
-      "API design and integration (REST, SOAP, JWT authentication)",
-      "CI/CD implementation with Docker, Jenkins, and Git workflows",
-      "Database design and optimization (SQL Server, PostgreSQL, MySQL, NoSQL)",
-      "Agile methodologies (Scrum, Kanban, Scrumban)"
+      "Shipped mobile apps — native iOS (SwiftUI) and React Native / Expo, live on the App Store",
+      "On-device AI/ML (Apple Vision, Google ML Kit) and data-scraping / automation pipelines",
+      "Full-stack web with Spring Boot, Laravel, Flask, Angular and React",
+      "API design & integration (REST, SOAP, JWT) and CI/CD with Docker, Kubernetes and Jenkins",
+      "Database design across SQL Server, PostgreSQL, MySQL, MongoDB and Supabase"
     ]
   },
   "experience": [
+    {
+      "id": "freelance",
+      "company": "Independent / Freelance",
+      "position": "Freelance Web & Mobile Developer",
+      "location": "Remote",
+      "startDate": "2022-01",
+      "endDate": null,
+      "current": true,
+      "description": "Design, build and ship web and mobile products end-to-end — for clients and my own apps.",
+      "responsibilities": [
+        "Miqat AI — published iOS/Android Fajr-alarm app with on-device AI (React Native, Supabase)",
+        "Wardak & Sahsah — native iOS apps (SwiftUI, Screen Time / Family Controls)",
+        "Tadartino — MERN real-estate platform deployed on AWS",
+        "OXEMT — school-support-center website (marketing, member area, online registration)",
+        "Lead Finder — Python scraping + outreach platform with a Streamlit dashboard"
+      ],
+      "technologies": [
+        "React Native",
+        "SwiftUI",
+        "Node.js",
+        "React",
+        "Python",
+        "MongoDB",
+        "Supabase",
+        "AWS"
+      ]
+    },
     {
       "id": "creadoc",
       "company": "Creadoc for School",
@@ -148,11 +175,11 @@
   ],
   "education": [
     {
-      "degree": "Master's Degree in Full-stack Development",
-      "institution": "University of Corsica",
-      "location": "France",
+      "degree": "Master's in Web & Mobile Development",
+      "institution": "Università di Corsica Pasquale Paoli",
+      "location": "Corte, France",
       "startDate": "2026-09",
-      "endDate": null,
+      "endDate": "2028-06",
       "graduated": false
     },
     {
@@ -201,7 +228,9 @@
       },
       {
         "name": "Python",
-        "frameworks": [],
+        "frameworks": [
+          "Flask"
+        ],
         "proficiency": "intermediate"
       },
       {
@@ -216,13 +245,24 @@
       },
       {
         "name": "NoSQL",
-        "frameworks": [],
+        "frameworks": [
+          "MongoDB",
+          "Supabase"
+        ],
         "proficiency": "intermediate"
       }
     ],
     "frontend": [
       {
+        "name": "React",
+        "proficiency": "advanced"
+      },
+      {
         "name": "Angular",
+        "proficiency": "intermediate"
+      },
+      {
+        "name": "SwiftUI",
         "proficiency": "intermediate"
       },
       {
@@ -239,6 +279,10 @@
       },
       {
         "name": "HTML5/CSS3",
+        "proficiency": "advanced"
+      },
+      {
+        "name": "Tailwind CSS",
         "proficiency": "advanced"
       }
     ],
@@ -261,6 +305,14 @@
       },
       {
         "name": "Bash/Batch",
+        "proficiency": "intermediate"
+      },
+      {
+        "name": "Kubernetes",
+        "proficiency": "intermediate"
+      },
+      {
+        "name": "Nginx",
         "proficiency": "intermediate"
       }
     ],

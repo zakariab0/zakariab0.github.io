@@ -1,10 +1,160 @@
 [
   {
+    "slug": "miqat-ai",
+    "title": "Miqat AI — Fajr Alarm with On-Device AI",
+    "description": "Published iOS & Android app whose alarm only dismisses after an on-device AI scan of your wudu/bathroom area. Built in React Native / Expo with native AlarmKit, home-screen widgets and in-app subscriptions.",
+    "longDescription": "An Arabic-first, shipped mobile app that helps people wake up for the Fajr prayer. The alarm can only be dismissed once the user physically gets up and passes an on-device computer-vision check — no snoozing back to sleep. Native AlarmKit on iOS, home-screen widgets on both platforms, RevenueCat subscriptions, Sentry and PostHog. Anonymous, privacy-first, no accounts.",
+    "tech": [
+      "React Native",
+      "Expo",
+      "TypeScript",
+      "Supabase",
+      "Apple Vision",
+      "Google ML Kit",
+      "RevenueCat"
+    ],
+    "category": "Mobile",
+    "github": null,
+    "demo": "https://apps.apple.com/app/id6762995897",
+    "image": "/projects/miqat-ai.png",
+    "featured": true,
+    "year": 2026,
+    "status": "active"
+  },
+  {
+    "slug": "miqat-os",
+    "title": "Miqat OS — Content-Ops Platform & Creator CRM",
+    "description": "Internal web platform (Angular 18 + Flask + MySQL, Dockerized) with an editor pipeline, creator CRM, a five-component compensation engine and analytics centered on cost-per-view.",
+    "longDescription": "A single system to run a content/creator operation instead of a pile of spreadsheets: production pipeline, creator CRM, payouts engine, TikHub view tracking and a dashboard whose hero metric is cost-per-view. The whole stack (Angular, Flask, MySQL, migrations, seed data) comes up with one Docker command.",
+    "tech": [
+      "Angular",
+      "Flask",
+      "Python",
+      "MySQL",
+      "Docker"
+    ],
+    "category": "Web",
+    "github": null,
+    "demo": null,
+    "image": "/projects/miqat-os.png",
+    "featured": true,
+    "year": 2026,
+    "status": "active",
+    "private": true
+  },
+  {
+    "slug": "wardak",
+    "title": "Wardak — Quran Reading Unlocks Screen Time (iOS)",
+    "description": "Native iOS app built on Apple's Family Controls / Screen Time: completing a Quran reading session grants a shared app-usage pool; when it runs out, the chosen apps are shielded again. On-device only.",
+    "longDescription": "A genuinely hard iOS build using the Family Controls, ManagedSettings and DeviceActivity frameworks. Ships the main app plus three system extensions (device-activity monitor, shield action, shield configuration), RevenueCat subscriptions, deep-linking from shield notifications, a committed Quran SQLite dataset, 38 unit tests and a Fastlane release pipeline. (Arabic name: صفوة / Safwa, by Golden Hands.)",
+    "tech": [
+      "Swift",
+      "SwiftUI",
+      "Family Controls",
+      "Screen Time",
+      "RevenueCat",
+      "XcodeGen",
+      "Fastlane"
+    ],
+    "category": "Mobile",
+    "github": null,
+    "demo": null,
+    "image": "/projects/wardak.png",
+    "featured": true,
+    "year": 2026,
+    "status": "active",
+    "private": true
+  },
+  {
+    "slug": "sahsah",
+    "title": "Sahsah — Native iOS Wake-Up App (SwiftUI)",
+    "description": "Arabic-first native iOS wake-up app for heavy snoozers: mission-based waking, wake history and insights, built on a token design system and a template-driven onboarding engine.",
+    "longDescription": "A SwiftUI app implemented from an approved product handoff — full Arabic RTL, mint/light onboarding and a dark main app, a mission flow to actually get users out of bed, wake history and insights. Architected for scale with a token-based design system, a config-per-page onboarding engine and a reusable component library.",
+    "tech": [
+      "Swift",
+      "SwiftUI",
+      "XcodeGen",
+      "Design System"
+    ],
+    "category": "Mobile",
+    "github": null,
+    "demo": null,
+    "image": "/projects/sahsah.png",
+    "featured": true,
+    "year": 2026,
+    "status": "active",
+    "private": true
+  },
+  {
+    "slug": "lead-finder",
+    "title": "Lead Finder — Email-Scraping & Outreach Platform",
+    "description": "Python anti-detection scraper over a 1M+ company dataset with DNS email scoring, Gmail outreach and a Dockerized Streamlit dashboard with a live Chrome view, sector filtering and crash-proof auto-resume.",
+    "longDescription": "An end-to-end lead-generation platform. The scraper drives a real Chrome (undetected-chromedriver) with human-like typing, warm-up searches, pacing and self-healing — it rebuilds itself after a crash and resumes exactly where it stopped. Harvested emails are DNS-scored (MX/SPF/DMARC) and fed into a templated Gmail outreach sequence, all driven from a Streamlit dashboard over a 1M+ company registry.",
+    "tech": [
+      "Python",
+      "Selenium",
+      "Streamlit",
+      "SQLite",
+      "Docker"
+    ],
+    "category": "Python",
+    "github": null,
+    "demo": null,
+    "image": "/projects/lead-finder.png",
+    "featured": true,
+    "year": 2026,
+    "status": "active",
+    "private": true
+  },
+  {
+    "slug": "tadartino",
+    "title": "Tadartino — Real-Estate Platform (MERN)",
+    "description": "Full real-estate marketplace built end-to-end in the MERN stack (MongoDB, Express, React, Node.js) — design, frontend and backend — deployed on AWS (EC2, media on S3).",
+    "longDescription": "A complete real-estate platform delivered solo: UX/design, React frontend, Node/Express API and MongoDB, with media storage on S3 and the app hosted on EC2.",
+    "tech": [
+      "MongoDB",
+      "Express",
+      "React",
+      "Node.js",
+      "AWS"
+    ],
+    "category": "Web",
+    "github": null,
+    "demo": "https://tadartino.ma",
+    "image": "/projects/tadartino.png",
+    "featured": true,
+    "year": 2022,
+    "status": "active"
+  },
+  {
+    "slug": "oxemt",
+    "title": "OXEMT — School Support Center Website",
+    "description": "Website for a tutoring/school-support center in Oxford: a marketing site with a member area and online registration/enrollment.",
+    "longDescription": "Designed and built the online presence for OXEMT — a public marketing site plus a member space and online course registration.",
+    "tech": [
+      "JavaScript",
+      "Web Design",
+      "Online Registration"
+    ],
+    "category": "Web",
+    "github": null,
+    "demo": "https://oxemt.org",
+    "image": "/projects/oxemt.png",
+    "featured": false,
+    "year": 2023,
+    "status": "active"
+  },
+  {
     "slug": "ozo",
     "title": "Ozo Trading Library",
     "description": "A Python library designed for algorithmic trading and quantitative finance. Provides tools for backtesting trading strategies, data analysis, and market simulation.",
     "longDescription": "Ozo is a comprehensive Python toolkit for traders and quantitative analysts. It offers robust backtesting capabilities, data manipulation utilities, and statistical analysis tools to develop and validate trading strategies before deploying them in live markets.",
-    "tech": ["Python", "NumPy", "Pandas", "Financial Analysis"],
+    "tech": [
+      "Python",
+      "NumPy",
+      "Pandas",
+      "Financial Analysis"
+    ],
     "category": "Python",
     "github": "https://github.com/zakariab0/ozo",
     "demo": null,
@@ -18,7 +168,12 @@
     "title": "Basic Blockchain Implementation",
     "description": "Educational blockchain demonstration built in Java, showcasing fundamental concepts of distributed ledger technology, proof-of-work, and chain validation.",
     "longDescription": "A Java-based blockchain implementation that demonstrates core concepts including block creation, cryptographic hashing, chain validation, and consensus mechanisms. Designed as an educational tool to understand blockchain architecture from first principles.",
-    "tech": ["Java", "Cryptography", "Data Structures", "Distributed Systems"],
+    "tech": [
+      "Java",
+      "Cryptography",
+      "Data Structures",
+      "Distributed Systems"
+    ],
     "category": "Java",
     "github": "https://github.com/zakariab0/Basic_Blockchain",
     "demo": null,
@@ -32,7 +187,13 @@
     "title": "Inventory Management System",
     "description": "Enterprise-grade inventory management application built with Spring Boot and PostgreSQL. Features comprehensive CRUD operations, reporting, and real-time stock tracking.",
     "longDescription": "Full-stack inventory management solution designed for warehouse operations. Includes advanced features like low-stock alerts, transaction history, supplier management, and customizable reporting. Built with Spring Boot backend and modern frontend, deployed with Docker.",
-    "tech": ["Spring Boot", "PostgreSQL", "Spring Data JPA", "REST API", "Docker"],
+    "tech": [
+      "Spring Boot",
+      "PostgreSQL",
+      "Spring Data JPA",
+      "REST API",
+      "Docker"
+    ],
     "category": "Java",
     "github": "https://github.com/zakariab0/inventory-managment",
     "demo": null,
@@ -46,7 +207,12 @@
     "title": "Product Management Application",
     "description": "PHP-based product management system developed as a coding challenge demonstration. Implements OCP (Open-Closed Principle) design patterns and clean architecture.",
     "longDescription": "A demonstration project showcasing SOLID principles in PHP development, particularly the Open-Closed Principle. Features extensible product catalog management, category hierarchies, and modular architecture that allows easy extension without modifying existing code.",
-    "tech": ["PHP", "Object-Oriented Design", "Design Patterns", "Clean Architecture"],
+    "tech": [
+      "PHP",
+      "Object-Oriented Design",
+      "Design Patterns",
+      "Clean Architecture"
+    ],
     "category": "PHP",
     "github": "https://github.com/zakariab0/Product-Management-Application",
     "demo": null,
@@ -60,7 +226,14 @@
     "title": "Fleet Management System (SOREC)",
     "description": "Comprehensive fleet management application developed during my end-of-studies internship at SOREC. Manages vehicle tracking, maintenance schedules, and driver assignments.",
     "longDescription": "Enterprise application built for Société Royale d'Encouragement du Cheval to manage their vehicle fleet. Features include vehicle inventory, maintenance tracking, fuel consumption analysis, driver management, and automated scheduling. Implemented with Spring Boot microservices, Angular frontend, and CI/CD pipeline.",
-    "tech": ["Spring Boot", "Angular", "PostgreSQL", "JWT", "Docker", "Jenkins"],
+    "tech": [
+      "Spring Boot",
+      "Angular",
+      "PostgreSQL",
+      "JWT",
+      "Docker",
+      "Jenkins"
+    ],
     "category": "Java",
     "github": null,
     "demo": null,
@@ -75,7 +248,13 @@
     "title": "Patient Records Management System",
     "description": "Hospital patient records management system developed with Symfony. Handles patient data, medical histories, appointments, and document management.",
     "longDescription": "Healthcare application built for Centre Hospitalier Provincial to digitize patient record management. Includes secure patient data storage, appointment scheduling, medical history tracking, and document management with role-based access control. Compliant with healthcare data privacy standards.",
-    "tech": ["PHP", "Symfony", "MySQL", "Bootstrap", "Doctrine ORM"],
+    "tech": [
+      "PHP",
+      "Symfony",
+      "MySQL",
+      "Bootstrap",
+      "Doctrine ORM"
+    ],
     "category": "PHP",
     "github": null,
     "demo": null,

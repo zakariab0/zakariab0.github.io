@@ -6,7 +6,7 @@ import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 
 export default function ProjectsShowcase() {
   const [filter, setFilter] = useState<string>("all");
-  const categories = ["all", "Python", "Java", "PHP"];
+  const categories = ["all", "Mobile", "Web", "Python", "Java", "PHP"];
 
   const filteredProjects =
     filter === "all"
