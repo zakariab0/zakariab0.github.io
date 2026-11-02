@@ -51,20 +51,19 @@
       ]
     },
     {
-      "id": "creadoc",
-      "company": "Creadoc for School",
+      "id": "current-swe",
+      "company": "Private Company",
       "position": "Software Engineer",
       "location": "France",
       "startDate": "2026-09",
       "endDate": null,
       "current": true,
-      "description": "Full-stack development of web applications for the education sector, serving schools and their teams.",
+      "description": "Full-stack development of web applications and internal services for a private company.",
       "responsibilities": [
-        "Design and develop full-stack web applications for the education sector",
-        "Build and integrate REST APIs and business modules",
-        "Connect the platform's services to its data environments",
-        "Focus on code quality, reliability and maintainability",
-        "Apply review practices and continuous improvement to the existing codebase"
+        "Design and build full-stack web applications",
+        "Develop and integrate REST APIs and business modules",
+        "Improve reliability, performance and maintainability of the codebase",
+        "Apply code review and continuous-improvement practices"
       ],
       "technologies": []
     },
