@@ -2,7 +2,7 @@
   "personal": {
     "name": "Zakaria Bounou",
     "title": "Full-Stack & Mobile Software Engineer",
-    "tagline": "Web, Mobile & AI — from spec to the App Store",
+    "tagline": "Web, Mobile & AI — open to full-stack roles or alternance",
     "bio": "I'm passionate about solving complex problems with analytical thinking and result-oriented development. I specialize in building scalable web applications across the full stack, from backend systems to modern frontends, with a focus on delivering high-performance solutions under tight deadlines.",
     "location": "France",
     "email": "bounouzakaria@outlook.com",
@@ -13,7 +13,7 @@
     "image": "/zakaria-bounou.jpg"
   },
   "about": {
-    "summary": "I build and ship real products across the full stack — enterprise web apps (Laravel, Spring Boot, Angular), native and cross-platform mobile apps (SwiftUI, React Native / Expo), and the AI and automation that make them useful. I take things from spec all the way to the App Store, with a focus on performance, clean architecture and maintainability.",
+    "summary": "Looking for a Full-Stack Web & Mobile Developer role — on a permanent contract or as an apprenticeship (alternance) — alongside the Web & Mobile Development programme at Università di Corsica Pasquale Paoli (2026 intake). Available immediately. I build and ship real products across the full stack — enterprise web apps (Laravel, Spring Boot, Angular), native and cross-platform mobile apps (SwiftUI, React Native / Expo), and the AI and automation that make them useful. I take things from spec all the way to the App Store, with a focus on performance, clean architecture and maintainability.",
     "highlights": [
       "Shipped mobile apps — native iOS (SwiftUI) and React Native / Expo, live on the App Store",
       "On-device AI/ML (Apple Vision, Google ML Kit) and data-scraping / automation pipelines",
@@ -51,38 +51,20 @@
       ]
     },
     {
-      "id": "current-swe",
-      "company": "Private Company",
-      "position": "Software Engineer",
-      "location": "France",
-      "startDate": "2026-09",
-      "endDate": null,
-      "current": true,
-      "description": "Full-stack development of web applications and internal services for a private company.",
-      "responsibilities": [
-        "Design and build full-stack web applications",
-        "Develop and integrate REST APIs and business modules",
-        "Improve reliability, performance and maintainability of the codebase",
-        "Apply code review and continuous-improvement practices"
-      ],
-      "technologies": []
-    },
-    {
       "id": "lve",
       "company": "La Voie Express",
-      "position": "Full-Stack Engineer",
+      "position": "Full-Stack Software Engineer",
       "location": "Casablanca, Morocco",
       "startDate": "2025-07",
-      "endDate": "2026-08",
-      "current": false,
-      "description": "Leading project management initiatives covering diverse operational aspects of the company's systems.",
+      "endDate": null,
+      "current": true,
+      "description": "Modernizing a company-wide ERP and building the operational tools that run on top of it.",
       "responsibilities": [
-        "Design and develop enterprise applications using Laravel and SQL Server",
-        "Maintain legacy PowerBuilder systems while modernizing architecture",
-        "Build REST APIs and integrate third-party services",
-        "Optimize existing systems for performance and scalability",
-        "Develop mobile applications with React Native",
-        "Implement automation scripts using Python, Bash, and Batch"
+        "Modernized a legacy ERP, migrating from PowerBuilder to Angular/Flask then Angular/Spring Boot",
+        "Built performant REST APIs with Laravel (PHP) and Flask (Python) over existing MySQL and SQL Server databases",
+        "Developed real-time operational dashboards for tracking, logistics and automated billing",
+        "Containerized internal tools (VexToolbox, VexBalance) with Docker/Kubernetes and Nginx",
+        "Secured applications with JWT and OAuth 2.0"
       ],
       "technologies": [
         "Laravel",
@@ -174,7 +156,7 @@
   ],
   "education": [
     {
-      "degree": "Master's in Web & Mobile Development",
+      "degree": "Master's in Web & Mobile Development — alternance track",
       "institution": "Università di Corsica Pasquale Paoli",
       "location": "Corte, France",
       "startDate": "2026-09",
